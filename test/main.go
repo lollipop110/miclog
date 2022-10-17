@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bkzy-wangjp/miclog"
+	"github.com/lollipop110/miclog"
 )
 
 func main() {
